@@ -1,4 +1,5 @@
 import qrcode
+from qrcode.image.pil import PilImage
 
 input_URL = "https://www.github.com/hackelite01"
 
