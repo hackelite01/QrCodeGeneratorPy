@@ -1,8 +1,6 @@
 import qrcode
 
-def input_URL():
-
-    input_URL = input("Please enter website address(URL):")
+input_URL = "https://www.github.com/hackelite01"
 
 qr = qrcode.QRCode(
 
